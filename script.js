@@ -51,4 +51,5 @@ searchBtn.addEventListener('click', () => {
             result.innerHTML = `<h3>Please enter a valid Country Name.</h3>`
         }
     })
+    
 })
